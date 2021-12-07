@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE07SHSP-SP001-06-SPKIRJ000-recovered_cspp-spkir_abj_cspp_metadata_recovered
+last_request: '2021-12-07T00:21:38.863372Z'
+response: https://raw.githubusercontent.com/ooi-data/CE07SHSP-SP001-06-SPKIRJ000-recovered_cspp-spkir_abj_cspp_metadata_recovered/main/history/response.json
+status: discontinued
